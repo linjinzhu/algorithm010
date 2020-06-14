@@ -32,6 +32,7 @@ void print(vector<int>& nums) {
     
 }
 
+// 283.移动零 https://leetcode-cn.com/problems/move-zeroes/
 int main(int argc, char const *argv[])
 {
     static const int arr[] = {1, 2, 0, 3, 0, 3, 0, 0};
