@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week03/generateParenthesis.cpp
+vector
+-
+string
+-
+iostream
+-
+
