@@ -1,0 +1,4 @@
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week04/build/CMakeFiles/rebuild_cache.dir
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week04/build/CMakeFiles/edit_cache.dir
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week04/build/CMakeFiles/numofislands.dir
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week04/build/CMakeFiles/levelorder.dir
