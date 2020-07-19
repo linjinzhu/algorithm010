@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week06/longestValidParentheses.cpp
+vector
+-
+iostream
+-
+string
+-
+algorithm
+-
+

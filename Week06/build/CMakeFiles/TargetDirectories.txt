@@ -1,0 +1,3 @@
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week06/build/CMakeFiles/rebuild_cache.dir
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week06/build/CMakeFiles/edit_cache.dir
+/Users/linjinzhu/Codes/geekbang/algorithm010/Week06/build/CMakeFiles/longestValidParentheses.dir
