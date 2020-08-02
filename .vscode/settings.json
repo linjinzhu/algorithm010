@@ -64,6 +64,7 @@
         "deque": "cpp",
         "queue": "cpp",
         "set": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "list": "cpp"
     }
 }
